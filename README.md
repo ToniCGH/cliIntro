@@ -1,1 +1,1 @@
-Introduction to CLI.
+Introduction to CLI with Yargs.js.
